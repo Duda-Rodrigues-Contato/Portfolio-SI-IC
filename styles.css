@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.nome-logo {
+
+    text-align: left;
+    margin-left: 15px;
+    font-size: 35px;
+    font-family: "DM Sans", sans-serif;
+
+}
+
+header table, 
+td {
+
+    width: 100%;
+    font-family: "DM Sans", sans-serif;
+
+}
+
+.head {
+
+    text-align: right;
+    font-family: "DM Sans", sans-serif;
+
+}
+
+.btn-home, .btn-sm, .btn-pro, .btn-cont {
+
+    margin-right: 15px;
+    margin-left: 15px;
+    padding: 0;
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+
+}
+
+.link-sem-sub {
+
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.btn-1 {
+
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 10px;
+
+}
+
+h2 {
+
+    font-family: "Open Sans", sans-serif;
+    font-size: 43px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+
+}
+
+h4 {
+
+    font-family: "Arimo", sans-serif;
+    font-size: 23px;
+    margin-left: 15px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+}
+
+.texto {
+
+    padding-right: 50px;
+    text-align: left;
+
+}
+
+.texto-introducao {
+
+    font-family: "Arimo", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 7px;
+    margin-left: 15px;
+
+}
+
+.image {
+
+    width: 150px;
+    height: 150px;
+    margin-left: 15px;
+    
+}
